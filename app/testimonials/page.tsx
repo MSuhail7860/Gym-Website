@@ -36,14 +36,14 @@ const transformations = [
     {
         name: "David R.",
         duration: "6 Months",
-        result: "-30 lbs",
+        result: "+10 lbs",
         beforeImage: "/images/david-before.png",
         afterImage: "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&w=2070&auto=format&fit=crop" // Placeholder
     },
     {
         name: "Sarah L.",
         duration: "4 Months",
-        result: "+10 lbs Muscle",
+        result: "-30 lbs Muscle",
         beforeImage: "/images/sarah-before.png",
         afterImage: "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?q=80&w=2069&auto=format&fit=crop" // Placeholder
     }
